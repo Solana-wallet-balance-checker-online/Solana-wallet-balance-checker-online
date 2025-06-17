@@ -138,4 +138,6 @@ Here are the command-line options for checking balances and wallet management:
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
-Update:  06/16/2025 05-36-41
+
+
+Update: Corrected broken links in privacy documentation
